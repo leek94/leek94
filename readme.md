@@ -6,7 +6,7 @@
 ![leek94's GitHub stats](https://github-readme-stats.vercel.app/api?username=leek94)
 
 ## Tech Stacks
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ## Projects
